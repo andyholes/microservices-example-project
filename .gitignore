@@ -2,4 +2,4 @@
 /discovery-server/target/
 /order-server/target/
 /inventory-service/target/
-/.idea/
+/.idea
