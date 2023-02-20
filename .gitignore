@@ -37,3 +37,5 @@
 /product-service/target/classes/com/andyholes/productservice/service/ProductService.class
 /product-service/target/classes/com/andyholes/productservice/ProductServiceApplication.class
 /order-service/target/classes/com/andyholes/orderservice/config/WebClientConfig.class
+/api-gateway/target/classes/com/andyholes/apigateway/config/SecurityConfig.class
+/discovery-server/target/classes/com/andyholes/config/SecurityConfig.class
