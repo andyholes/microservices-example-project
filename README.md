@@ -8,6 +8,10 @@ This is a simple online shopping application that contains the following service
 - Inventory Service: Checks whether ordered products are in stock or not
 - Notification Service: Send notifications if orders are placed successfully
 
+Keycloack is used for securing API Gateway requests.
+
 WebClient is used for synchronous communication between the services through HTTP requests.
 
 Service Discovery pattern is implemented using Netflix Eureka.
+
+Distributed Tracing pattern implemented with Spring Cloud Sleuth and Zipkin
